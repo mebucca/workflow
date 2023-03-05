@@ -4,7 +4,7 @@
 Before the session please do the following:
 
 
-- Sign into Overleaf: [`[here]`]([https://cran.dcc.uchile.cl](https://it.overleaf.com/login)
+- Sign into Overleaf: [`[here]`](https://it.overleaf.com/login)
 - Download and install R on your personal computer: [`[here]`](https://cran.dcc.uchile.cl)
 - Download and install RStudio on your personal computer [`[here]`](https://posit.co/download/rstudio-desktop/)
 - Download and install Zotero on your personal computer [`[here]`](https://www.zotero.org/download/)
