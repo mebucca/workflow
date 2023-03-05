@@ -3,7 +3,7 @@
 
 Before the session please do the following:
 
-- Download and install R on your personal computer: (https://cran.dcc.uchile.cl)[`[Here]`]
+- Download and install R on your personal computer: [`[Here]`](https://cran.dcc.uchile.cl)
 Download and install RStudio on your personal computer
 Optionally,
 
