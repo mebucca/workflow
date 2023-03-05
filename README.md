@@ -12,6 +12,6 @@ Before the session please do the following:
 
 Optionally,
 
-Download and install the text editor SublimeText3.
-Open SublimeText and follow the instructions here step-by-step. Notice that the procedure is different depending on whether you are a Windows or MacOS user.
-Because of time constraints, I will not be covering how to use R and SublimeText together, but if you are interested we can talk about it after the class.
+- Download and install the text editor SublimeText: [`[here]`](https://www.sublimetext.com)
+
+Open SublimeText and follow this [guide](https://docs.sublimetext.io/guide/) step-by-step. Notice that the procedure is different depending on whether you are a Windows or MacOS user. Because of time constraints, I will not be covering how to use R and SublimeText together, but if you are interested we can talk about it after the class.
