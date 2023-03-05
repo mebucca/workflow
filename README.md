@@ -1,6 +1,8 @@
 # Workflow: good practices for efficient and reproductible data analysis
 
 
+# First steps
+
 Before the session please do the following:
 
 
