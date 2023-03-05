@@ -3,8 +3,13 @@
 
 Before the session please do the following:
 
-- Download and install R on your personal computer: [`[Here]`](https://cran.dcc.uchile.cl)
-Download and install RStudio on your personal computer
+
+- Sign into Overleaf: [`[here]`]([https://cran.dcc.uchile.cl](https://it.overleaf.com/login)
+- Download and install R on your personal computer: [`[here]`](https://cran.dcc.uchile.cl)
+- Download and install RStudio on your personal computer [`[here]`](https://posit.co/download/rstudio-desktop/)
+- Download and install Zotero on your personal computer [`[here]`](https://www.zotero.org/download/)
+
+
 Optionally,
 
 Download and install the text editor SublimeText3.
