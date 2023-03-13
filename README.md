@@ -20,3 +20,5 @@ Open SublimeText and follow this [`[guide]`](https://docs.sublimetext.io/guide/)
 
 
 ## Materials
+
+- Overleaf template: [`[here]`](https://www.overleaf.com/project/5319dff0f8c27db47b000033)
