@@ -1,5 +1,6 @@
 # Workflow: good practices for efficient and reproductible data analysis
 
+![background](background.png)
 
 ## First steps
 
