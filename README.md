@@ -1,4 +1,4 @@
-# Workflow: good practices for efficient and reproductible data analysis
+# Workflow: good practices for efficient and reproducible data analysis
 
 ![background](background.png)
 
