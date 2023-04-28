@@ -2,6 +2,15 @@
 
 ![background](background.png)
 
+## Description
+
+The workshop, "The Workflow: Good Practices for Efficient and Reproducible Data Analysis," is designed for Ph.D. students, postdocs, and researchers in the quantitative social sciences. The workshop aims to provide attendees with the knowledge and tools to improve their workflow and increase their efficiency and reproducibility while working on data analysis projects. It is especially useful for those who work collaboratively and deal with vast amounts of data.
+
+The participants will learn about the benefits of using a structured and systematic approach to data analysis, including breaking down tasks into smaller manageable steps, organizing and documenting work, and utilizing software tools and techniques such as version control, automated testing, and code review to improve the quality and reliability of their work.
+
+Practical demonstrations, hands-on exercises, and group discussions will help the participants apply these techniques to their projects and receive feedback from the instructor and their peers. By the end of the workshop, the attendees will have a better understanding of designing and implementing an efficient, transparent, and reproducible workflow. This will ultimately save them time, reduce errors, and improve the quality of their research.
+
+
 ## First steps
 
 Before the session please do the following:
